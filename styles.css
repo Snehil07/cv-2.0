@@ -10,7 +10,7 @@ body{
   padding-top: 100px;
 }
 p{
-  font-size: 1.4rem;
+  font-size: 1.2rem;
 }
 hr{
   border-style: none;
@@ -22,14 +22,14 @@ hr{
 }
 h1{
   color: #66BFBF;
-  font-size: 7rem;
-  margin-top: 55px;
+  font-size: 5.5rem;
+  margin-top: 50px;
   font-family: 'Sacramento', cursive;
 }
 h2{
   color: #66BFBF;
   font-family: 'Montserrat', sans-serif;
-  font-size: 3rem;
+  font-size: 2.5rem;
 }
 .mainpage{
   color: #66BFBF;
@@ -70,22 +70,14 @@ h3{
   position: absolute;
   right: 300px;
   top: 100px;
-  width: 200px;
-  height: 60px;
 }
 .bottomc{
   position: absolute;
   left: 300px;
   bottom: 300px;
-  width: 200px;
-  height: 60px;
 }
 
-.moun{
-  padding-top: 40px;
-  width:700px;
-  height: 500px;
-}
+
 .mid{
     margin: 100px;
 }
